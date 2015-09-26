@@ -1,6 +1,6 @@
 # The functions below creates a matrix object that can cache its inverse.
 
-# The first function, makeCacheMatrix creates a special "matrix"
+# The first function, makeCacheMatrix creates a special "matrix". It performs following 4 steps...
 # 1. set the value of the matrix
 # 2. get the value of the matrix
 # 3. set the value of the inverse matrix
